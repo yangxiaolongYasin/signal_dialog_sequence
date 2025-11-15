@@ -2,10 +2,10 @@ name: signal_dialog_sequence
 description: >
   Control dialog display order with signal-based sequences in Flutter,
   keeping dialogs in a fixed step order even when async tasks finish out of order.
-version: 0.0.2
-homepage: https://github.com/yangxiaolongYasin/Flutter/signal_dialog_sequence
-repository: https://github.com/yangxiaolongYasin/Flutter/signal_dialog_sequence
-issue_tracker: https://github.com/yangxiaolongYasin/Flutter/signal_dialog_sequence/issues
+version: 0.0.3
+homepage: https://github.com/yangxiaolongYasin/signal_dialog_sequence
+repository: https://github.com/yangxiaolongYasin/signal_dialog_sequence
+issue_tracker: https://github.com/yangxiaolongYasin/signal_dialog_sequence
 environment:
   sdk: ^3.9.2
   flutter: ">=1.17.0"
