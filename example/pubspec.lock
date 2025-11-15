@@ -139,6 +139,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  signal_dialog_sequence:
+    dependency: "direct main"
+    description:
+      name: signal_dialog_sequence
+      sha256: "6519a9220966b23988c5d7d9577e042561e6585db9ab86af69ffb4c0b713e8a1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.1"
   sky_engine:
     dependency: transitive
     description: flutter
